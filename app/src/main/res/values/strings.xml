@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Card</string>
+    <string name="title1">Smart Card Validation</string>
+    <string name="verifyBtn">SUBMIT</string>
+    <string name="button1">Smart Card</string>
+    <string name="title2">Select Payment Method</string>
+    <string name="tv_crditcardbtn">Credit Card</string>
+    <string name="tv_cashbtn">Cash</string>
+    <string name="title3">Add Your Amount</string>
+    <string name="tv_1">Enter amount</string>
+    <string name="confirmBtn">ADD</string>
+</resources>
